@@ -68,7 +68,7 @@ jupyter notebook
 
 ## 📝 Course Content & Structure
 
-See SYLLABUS.md for detailed syllabus of the couse.
+See [SYLLABUS.md](https://github.com/Official-Satyam-Tiwari/PythonCourseForBeginners/blob/main/SYLLABUS.md) for detailed syllabus of the couse.
 
 ---
 
