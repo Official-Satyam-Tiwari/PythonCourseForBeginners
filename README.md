@@ -68,16 +68,7 @@ jupyter notebook
 
 ## 📝 Course Content & Structure
 
-| Module | Notebook | Description |
-|--------|----------|-------------|
-| 1. Introduction | `01_introduction.ipynb` | What is Python? Installing Python, Hello World |
-| 2. Variables & Types | `02_variables_types.ipynb` | Variables, Data Types, Basic Input/Output |
-| 3. Control Flow | `03_control_flow.ipynb` | If Statements, Loops (for, while) |
-| 4. Data Structures | `04_data_structures.ipynb` | Lists, Tuples, Dictionaries, Sets |
-| ... | ... | ... |
-| N. Solutions | `solutions/` | All solution notebooks |
-
-> ✨ **Each notebook contains step-by-step explanations and practical exercises!**
+See SYLLABUS.md for detailed syllabus of the couse.
 
 ---
 
