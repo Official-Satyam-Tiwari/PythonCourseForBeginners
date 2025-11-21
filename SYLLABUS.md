@@ -80,7 +80,7 @@ This syllabus outlines the modules and topics covered in this course. By followi
 
 ## 8. Statistical Analysis of Data with Python
 
-- (Introduction and practical applications — details to be provided in course content)
+- (Introduction and practical applications — details to be added)
 
 ---
 
