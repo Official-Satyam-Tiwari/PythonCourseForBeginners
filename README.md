@@ -27,7 +27,8 @@ By the end of this course, you’ll be able to:
 **Dr. Sushil Sharma**  
 Assistant Professor at Jagillonean University
 
-## Teaching Assistant
+## 🤝 Teaching Assistant
+
 **Satyam**
 PhD Student at Jagiellonian University
 
